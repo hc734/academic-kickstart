@@ -6,12 +6,12 @@ bio: My research interests include biostatistics/bioinformatics, neuroscience,
   and clinical research.
 interests:
   - Biostatistics
-  - MachineLearning
-  - ClinicalResearch
+  - Machine Learning
+  - Clinical Research
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: hsinyi2015@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cindykchen
