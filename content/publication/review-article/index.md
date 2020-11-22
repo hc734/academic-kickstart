@@ -2,10 +2,10 @@
 title = "The utility of quantitative electroencephalography in detecting delayed cerebral ischemia after aneurysmal subarachnoid hemorrhage"
 
 # Date first published.
-date = "In Press"
+date = ""
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Baang HY", "Chen HY", "Herman AL", "Gilmore EJ", "Hirsch LJ", "Sheth KN", "Petersen NH", "Zafar SF", "Rosenthal ES", "Westover MB", "Kim JA"]
+authors = ["Baang HY", "Chen HY", "Herman AL", "Gilmore EJ", "Hirsch LJ", "Sheth KN", "Petersen NH", "Zafar SF", "Rosenthal ES", "Westover MB", "Kim JA", "(in press.)"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = ["Baang HY", "Chen HY", "Herman AL", "Gilmore EJ", "Hirsch LJ", "Sheth
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Journal of Clinical Neurophysiology*."
+publication = "In *Journal of Clinical Neurophysiology*"
 publication_short = ""
 
 # Abstract and optional shortened version.
