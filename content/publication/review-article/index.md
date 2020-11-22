@@ -2,10 +2,10 @@
 title = "The utility of quantitative electroencephalography in detecting delayed cerebral ischemia after aneurysmal subarachnoid hemorrhage"
 
 # Date first published.
-date = ""
+date = "In Press"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Baang HY", "Chen HY", "Herman AL", "Gilmore EJ", "Hirsch LJ", "Sheth KN", "Petersen NH", "Zafar SF", "Rosenthal ES", "Westover MB", "Kim JA", "(in press.)"]
+authors = ["Baang HY", "Chen HY", "Herman AL", "Gilmore EJ", "Hirsch LJ", "Sheth KN", "Petersen NH", "Zafar SF", "Rosenthal ES", "Westover MB", "Kim JA"]
 
 # Publication type.
 # Legend:
