@@ -9,4 +9,4 @@ title = "Fun Stuff"
 subtitle = ""
 
 +++
-* In my spare time, I love [beautiful note taking](https://www.instagram.com/cindys_notebook/), music, writing, and visual design. When I was younger, I published a [historical fiction novel](https://www.amazon.com/Sounds-War-Cindy-Chen-ebook/dp/B00OML6M00/ref=sr_1_1?keywords=sounds+of+war+cindy+chen&qid=1571965247&sr=8-1).
+In my spare time, I love [beautiful note taking](https://www.instagram.com/cindys_notebook/), music, writing, and visual design. When I was younger, I published a [historical fiction novel](https://www.amazon.com/Sounds-War-Cindy-Chen-ebook/dp/B00OML6M00/ref=sr_1_1?keywords=sounds+of+war+cindy+chen&qid=1571965247&sr=8-1).
