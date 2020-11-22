@@ -4,7 +4,10 @@ role: Research Associate
 avatar_filename: avatar.jpg
 bio: My research interests include biostatistics/bioinformatics, neuroscience,
   and clinical research.
-interests: []
+interests:
+  - Biostatistics
+  - MachineLearning
+  - ClinicalResearch
 social:
   - icon: envelope
     icon_pack: fas
