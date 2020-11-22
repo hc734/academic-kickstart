@@ -68,10 +68,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
 +++
-<<<<<<< HEAD
-
-
-
 * Neurocritical Care Society 18th Annual Meeting (2020). "Models integrating epileptiform abnormalities, TCD, and clinical variables improve DCI prediction after SAH."
 * American Academy of Neurology 72nd Annual Meeting (2020). "TCD and EEG Combind Better Predicts DCI after SAH."
