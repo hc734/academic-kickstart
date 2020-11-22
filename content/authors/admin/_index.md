@@ -2,8 +2,7 @@
 title: Hsin Yi "Cindy" Chen
 role: Research Associate
 avatar_filename: avatar.jpg
-bio: My research interests include biostatistics/bioinformatics, neuroscience,
-  and clinical research.
+bio: 
 interests:
   - Biostatistics
   - Machine Learning
@@ -36,4 +35,6 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-My name is Cindy Chen, and I am currently a post-graduate research associate at Yale School of Medicine working with [Jennifer Kim](https://medicine.yale.edu/profile/jennifer_a_kim/) on delayed cerebral ischemia detection using EEG. I graduated Cornell University in May 2019 with a degree in Biometry & Statistics and a minor in music. Previously, I have done research with [Clarence Lee](https://www.johnson.cornell.edu/faculty-research/faculty/cl2278/) at Cornell University.
+I am currently a post-graduate research associate at Yale School of Medicine working with [Jennifer Kim](https://medicine.yale.edu/profile/jennifer_a_kim/) on delayed cerebral ischemia detection using EEG. My research interests include biostatistics/bioinformatics and their intersection with clinical medicine.
+
+I graduated Cornell University in May 2019 with a degree in Biometry & Statistics and a minor in music. Previously, I have done research with [Clarence Lee](https://www.johnson.cornell.edu/faculty-research/faculty/cl2278/) at Cornell University.
