@@ -10,3 +10,8 @@ image:
   preview_only: false
 ---
 Delayed Cerebral Ischemia (DCI) is a complication after Subarachnoid Hemorrhages. We are looking into improving prediction for DCI using EEG and TCD patterns.
+
+
++++
+
+Further Details Here
