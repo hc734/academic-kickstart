@@ -21,6 +21,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/hc734
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-7907-2335
 organizations:
   - name: Yale University
     url: ""
