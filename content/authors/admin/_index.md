@@ -1,7 +1,7 @@
 ---
 title: Hsin Yi "Cindy" Chen
 role: Research Associate
-avatar_filename: chen_hsinyi_pho.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include biostatistics/bioinformatics, neuroscience,
   and clinical research.
 interests: []
