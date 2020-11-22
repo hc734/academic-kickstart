@@ -5,7 +5,7 @@ title = "Bone mineral density changes after parathyroidectomy are dependent on b
 date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Denise Lee", "Marcella D Walker", "Hsin Yi Chen", "John A Chabot", "James A Lee", "Jennifer H Kuo"]
+authors = ["Lee D", "Walker MD", "Chen HY", "Chabot JA", "Lee JA", "Kuo JH"]
 
 # Publication type.
 # Legend:
