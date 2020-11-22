@@ -5,7 +5,7 @@ title = "Bone mineral density changes after parathyroidectomy are dependent on b
 date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Denise Lee", "Marcella D Walker", "*Hsin Yi Chen*", "John A Chabot", "James A Lee", "Jennifer H Kuo"]
+authors = ["Denise Lee", "Marcella D Walker", **"Hsin Yi Chen"**, "John A Chabot", "James A Lee", "Jennifer H Kuo"]
 
 # Publication type.
 # Legend:
@@ -30,7 +30,7 @@ abstract_short = "Analysis of whether the effects of PTX on BMD is the same for 
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = "true"
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Talks"
 subtitle = ""
 
 [content]
@@ -72,6 +72,5 @@ subtitle = ""
 
 
 
-
-* item 1
-* item 2 
+* Neurocritical Care Society 18th Annual Meeting (2020). "Models integrating epileptiform abnormalities, TCD, and clinical variables improve DCI prediction after SAH."
+* American Academy of Neurology 72nd Annual Meeting (2020). "TCD and EEG Combind Better Predicts DCI after SAH."
