@@ -11,6 +11,10 @@ title = "Recent & Upcoming Talks"
 subtitle = ""
 
 [content]
+
+* item 1
+* item 2 
+
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
   
