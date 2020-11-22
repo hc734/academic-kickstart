@@ -2,39 +2,30 @@
 title: Hsin Yi "Cindy" Chen
 role: Research Associate
 avatar_filename: chen_hsinyi_pho.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: My research interests include biostatistics/bioinformatics, neuroscience,
+  and clinical research.
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/cindykchen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=p4empboAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/hc734
 organizations:
-  - name: Stanford University
+  - name: Yale University
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.S. in Biometry & Statistics
+      institution: Cornell University
+      year: 2019
 email: ""
 superuser: true
 user_groups:
@@ -42,7 +33,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Cindy Chen, and I am currently a post-graduate research associate at Yale School of Medicine working with [Jennifer Kim](https://medicine.yale.edu/profile/jennifer_a_kim/) on delayed cerebral ischemia detection using EEG. I graduated Cornell University in May 2019 with a degree in Biometry & Statistics and a minor in music. Previously, I have done research with [Clarence Lee](https://www.johnson.cornell.edu/faculty-research/faculty/cl2278/) at Cornell University.
